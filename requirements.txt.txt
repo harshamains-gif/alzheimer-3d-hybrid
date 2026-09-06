@@ -1,0 +1,9 @@
+monai
+nibabel
+pandas
+scikit-image
+scikit-learn
+torch
+seaborn
+matplotlib
+numpy
